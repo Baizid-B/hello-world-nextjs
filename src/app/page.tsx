@@ -25,7 +25,7 @@ export default function Home() {
         >
           <img src="/webflow.svg" className="logo vanilla" alt="Webflow logo" />
         </a>
-        <h1>Next.js + Webflow Cloud</h1>
+        <h1>baizid added new text here</h1>
         <div className="card">
           <Counter />
         </div>
